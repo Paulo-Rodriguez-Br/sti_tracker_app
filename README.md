@@ -81,7 +81,8 @@ streamlit run app_main.py
 
 ## 🧰 Future Improvements
 
-- Add authentication or user profiles.  
+- Add authentication or user profiles.
+- Add automatic notifying system when the user needs to do again his test (at reminder_hour)
 - Export patient history as PDF or Excel.  
 - Add visualization (charts for test trends).  
 - Cloud backup or synchronization (optional).  
@@ -92,7 +93,7 @@ streamlit run app_main.py
 ## 👨‍💻 Author
 
 **Paulo Rodriguez**  
-_Data Analytics Student – Dublin University_  
+_DU - Data Analytics Master Student – Sorbonne Pantheon 1
 📅 *October 2025*  
 
 ---
